@@ -36,7 +36,7 @@ It is very tricky to deal with all kind of test scenarios. You can find all exam
 
 *this is the sample here*
 
-Link to [http://wiki.vertafore.com/](wiki)
+Link to [http://wiki.vertafore.com/display/ProdDev/VAP+angular+2+upgrade](wiki)
 
 ## Coding guide
 Angular team has this best practice guide here.
