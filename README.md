@@ -30,6 +30,7 @@ It is very tricky to deal with all kind of test scenarios. You can find all exam
 
 ## Todo: 
 - [x] tfs integration
+- [x] gitLab 
 - [ ] unit test framework
 - [ ] grunt or gulp job
 
