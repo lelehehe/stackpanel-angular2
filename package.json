@@ -1,6 +1,6 @@
 {
-  "name": "a2-first-look",
-  "version": "0.2.0",
+  "name": "angular-seed",
+  "version": "0.2.1",
   "scripts": {
     "start": "tsc && concurrently \"tsc -w\" \"lite-server\" ",
     "e2e": "tsc && concurrently \"http-server -s\" \"protractor protractor.config.js\" --kill-others --success first",
@@ -15,7 +15,7 @@
   "dependencies": {
     "@angular/common": "2.4.7",
     "@angular/compiler": "2.4.7",
-    "@angular/compiler-cli": "2.4.0",
+    "@angular/compiler-cli": "2.4.7",
     "@angular/core": "2.4.7",
     "@angular/forms": "2.4.7",
     "@angular/http": "2.4.7",
