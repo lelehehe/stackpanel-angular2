@@ -8,12 +8,14 @@
 1. Install npm
 2. Install node
 3. npm i -g karma-cli
-
+4. install wallaby extension for VSCode
 
 
 ## To run the project: 
-1. `npm i`
-2. Run the TypeScript compiler, watch for changes, start the server, and launch the browser `npm start`
+1. `npm i`: install all packages
+2. `npm start`: run the TypeScript compiler, watch for changes, start the server, and launch the browser 
+3. `npm test`: run test
+4. `Ctrl+R, R`: in vscode, use this command to run wallaby for unit test live editing and code coverage
 
 ## Version
 angular library is restricted to ~2.4.0
