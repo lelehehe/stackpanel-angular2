@@ -47,6 +47,7 @@ Angular team has this best practice guide here.
 
 Extra Info: 
 1. [https://github.com/Microsoft/vscode-tips-and-tricks](vscode-tip-stricks)
+2. ![vsCode extensions](https://git.devop.vertafore.com/zhangmi/vap-angular-seed/raw/master/vscode-extensions.png)
 
 VSCode cheatsheet
 ![vscode keyboard](https://raw.githubusercontent.com/Microsoft/vscode-tips-and-tricks/master/media/KeyboardReferenceSheet.png)
