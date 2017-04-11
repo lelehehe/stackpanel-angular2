@@ -1,56 +1,29 @@
-# This is our seed angular 2 project. 
+# stackpanel using angular 2 
+original post for stackpanel control is using jQuery: https://github.com/troolee/gridstack.js
+There is a angular 1.x wrap up for this control: https://github.com/kdietrich/gridstack-angular
+someone posted some code snipet in stackoverflow for doing stackpanel in angular 2: 
+http://stackoverflow.com/questions/39901473/wrap-gridstack-js-into-angular-2-component
 
-## Recommanded dev box setup
--- vs code
--- tfs extension. This would let us to get latest code and checkout a file before we can modify it inside vscode 
+
+We are going to make a stackpanel control in 
 
 ## Prerequisite
 1. Install npm
 2. Install node
 3. npm i -g karma-cli
-4. install wallaby extension for VSCode
 
 
 ## To run the project: 
 1. `npm i`: install all packages
 2. `npm start`: run the TypeScript compiler, watch for changes, start the server, and launch the browser 
 3. `npm test`: run test
-4. `Ctrl+R, R`: in vscode, use this command to run wallaby for unit test live editing and code coverage
 
-## Version
-angular library is restricted to ~2.4.0
-
-## Test 
->fdescribe: Just run this area only
-
->xdescribe: ignore this area. 
-
->fit/xit: we also support for "it" in this way 
-
-It is very tricky to deal with all kind of test scenarios. You can find all examples in [https://angular.io/docs/ts/latest/guide/testing.html](test-examples)
-
-
-## Todo: 
-- [x] tfs integration
-- [x] gitLab 
-- [ ] unit test framework
-- [ ] grunt or gulp job
-
-
-*this is the sample here*
-
-Link to [http://wiki.vertafore.com/display/ProdDev/VAP+angular+2+upgrade](wiki)
-
-## Coding guide
-Angular team has this best practice guide here.
-[https://angular.io/docs/ts/latest/guide/style-guide.html](BestPracticeGuide)
-
-Extra Info: 
-1. [https://github.com/Microsoft/vscode-tips-and-tricks](vscode-tip-stricks)
-2. ![vsCode extensions](https://git.devop.vertafore.com/zhangmi/vap-angular-seed/raw/master/vscode-extensions.png)
-
-VSCode cheatsheet
-![vscode keyboard](https://raw.githubusercontent.com/Microsoft/vscode-tips-and-tricks/master/media/KeyboardReferenceSheet.png)
+## Todo
+-- [ ] setup jQuery 
+-- [ ] wire up gridstack jquery library
+-- [ ] build angular gridstack component and demo page
+-- [ ] wrap up as a library
+-- [ ] publish to npm library
 
 
 
